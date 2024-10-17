@@ -1,0 +1,13 @@
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;
+    align-content: center;
+    text-align: center;
+}
